@@ -1,0 +1,6 @@
+Syntax highlighting for Therion files in TextWranger - TO DO
+	- Ameliorate the definition of the different blocks to be able to retract them 
+		with the small triangle
+	- Auto-completion
+	- Change the language recognition in Code metapost and Code tex-map
+	-
