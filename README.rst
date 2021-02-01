@@ -1,7 +1,7 @@
 Therion Language Module for BBEdit and TextWrangler
 ===================================================
 
-Version 1.0 B1 - Janv 10, 2018
+Version 1.0 C1 - Fev 01, 2021
 
 Created by Xavier Robert
 

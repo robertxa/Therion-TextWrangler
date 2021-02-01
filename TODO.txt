@@ -4,3 +4,7 @@ Syntax highlighting for Therion files in TextWranger - TO DO
 	- Auto-completion
 	- Change the language recognition in Code metapost and Code tex-map
 	-
+
+DONE
+	- Add comment...endcomment block
+	- 

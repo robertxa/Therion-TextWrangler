@@ -82,6 +82,8 @@
 		<string>centreline</string>
 		<string>endcenterline</string>
 		<string>endcentreline</string>
+		<string>comment</string>
+		<string>endcomment</string>
 		<string>date</string>
 		<string>team</string>
 		<string>explo-date</string>
@@ -686,6 +688,11 @@
 			<string>area</string>
 		<key>Close Statement Blocks 7</key>
 			<string>endarea</string>
+		
+		<key>Open Statement Blocks 8</key>
+			<string>comment</string>		
+		<key>Close Statement Blocks 8</key>
+			<string>endcomment</string>
 			
 		<key>BBLMCommentLineDefault</key>
 		<!-- This is used to comment line with the shortcut cmd+shift+/ -->
@@ -762,4 +769,3 @@
 	
 </dict>
 </plist>
-
