@@ -140,6 +140,7 @@
 		<string>counter</string>
 		<string>depth</string>
 		<string>fromdepth</string>
+		<string>todepth</string>
 		<string>depthchange</string>
 		<string>northing</string>
 		<string>easting</string>
@@ -161,6 +162,7 @@
 		<string>break</string>
 		<string>preview</string>
 		<string>above</string>
+		<string>flags</string>
 		
 		<string>group</string>
 		<string>engroup</string>
@@ -275,38 +277,208 @@
 		<string>step</string>
 		<string>until</string>
 		<string>initsymbol</string>
+		<string>title-pages</string>
+		<string>nav-factor</string>
+		<string>nav-size</string>
+		<string>atlastitlepages</string>
+		<string>insertmaps</string>
+		<string>formattedlegence</string>
+		<string>thaltitude</string>
+		<string>cavemaxz</string>
+
+		<string>esri</string>
 
 		
 		<!--File .th2-->
 		<string>scrap</string>
 		<string>projection</string>
 		<string>copyrigth</string>
-		<string>label</string>
 		<string>text</string>
-		<string>water-flow</string>
 		<string>scale</string>
 		<string>orientation</string>
-		<string>air-draught</string>
-		<string>breakdown-choke</string>
-		<string>continuation</string>
-		<string>entrance</string>
-		<string>arrow</string>
+		
 		<string>endline</string>
-		<string>contour</string>
-		<string>smooth</string>
-		<string>rock</string>
-		<string>border</string>
+	
 		<string>close</string>
 		<string>&lt;it&gt;</string>
 		<string>&lt;center&gt;</string>
 		<string>&lt;bf&gt;</string>
 		<string>&lt;br&gt;</string>
-		<string>wall</string>
-		<string>station</string>
-		<string>name</string>
-		<string>endscrap</string>
+		
 		<string>area</string>
 		<string>endarea</string>
+		<string>point</string>
+		<string>cave</string>
+		<string>name</string>
+		<string>outline</string>
+		<string>id</string>
+		<string>symbol-colour</string>
+		
+		<!--Tex words-->
+		<string>edef</string>
+		<string>nostring</string>
+		<string>ifx</string>
+		<string>if</string>
+		<string>newtoks</string>
+		<string>nostring</string>
+		<string>tmp</string>
+		<string>ss</string>
+		<string>si</string>
+		<string>vss</string>
+		<string>empty</string>
+		<string>hfill</string>
+		<string>box</string>
+		<string>vbox</string>
+		<string>rightskip</string>
+		<string>plus</string>
+		<string>parskip</string>
+		<string>medskip</string>
+		<string>par</string>
+		<string>everypar</string>
+		<string>hangindent</string>
+		<string>hangafter</string>
+		<string>bigskip</string>
+		<string>hsize</string>
+		<string>cartotitle</string>
+		<string>thaltitude</string>
+		<string>legendcontent</string>
+		<string>legendwidth</string>
+		<string>ifnortharrow</string>
+		<string>northarrow</string>
+		<string>legendtextheadersize</string>
+		<string>scalebar</string>
+		<string>ifscalebar</string>
+		<string>legendtextsize</string>
+		<string>legendtextcolor</string>
+		<string>outcsname</string>
+		<string>northdir</string>
+		<string>magdecl</string>
+		<string>cavename</string>
+		<string>cavelength</string>
+		<string>cavelengthtitle</string>
+		<string>cavedepth</string>
+		<string>cavedephtitle</string>
+		<string>currentdate</string>
+		<string>copyrights</string>
+		<string>formattedlegend</string>
+		<string>dopage</string>
+		<string>ht</string>
+		<string>navbox</string>
+		<string>framed</string>
+		<string>hbox</string>
+		<string>mapbox</string>
+		<string>space</string>
+		<string>ifpagenumbering</string>
+		<string>pagenum</string>
+		<string>pagename</string>
+		<string>qquad</string>
+		<string>vtop</string>
+		<string>hss</string>
+		<string>showpointer</string>
+		<string>pointerW</string>
+		<string>pointerN</string>
+		<string>pointerS</string>
+		<string>pointerE</string>
+		<string>pointerU</string>
+		<string>pointerD</string>
+		<string>updownarrows$</string>
+		<string>leftrightarrow$</string>
+		<string>rlap</string>
+		<string>arr</string>
+		<string>uparrow$</string>
+		<string>downarrow$</string>
+		<string>showpointerlist</string>
+
+
+		<string>max</string>
+		<string>xpart</string>
+		<string>ypart</string>
+		<string>urcorner</string>
+		<string>llcorner</string>
+		<string>lrcorner</string>
+		<string>ulcorner</string>
+		<string>clip</string>
+		<string>bbox</string>
+		<string>unknown</string>
+		<string>angle</string>
+		<string>mod</string>
+		<string>upto</string>
+		<string>subpath</string>
+		<string>interim</string>
+		<string>linejoin</string>
+		<string>linecap</string>
+		<string>yscale</string>
+		<string>xscale</string>
+		<string>btex</string>
+		<string>pair</string>
+		<string>thelabel</string>
+		<string>bboxmargin</string>
+		<string>write_circ_bbox</string>
+		<string>process_uplabel</string>
+		<string>process_downlabel</string>
+		<string>process_updownlabel</string>
+		<string>process_circledlabel</string>
+		<string>process_boxedlabel</string>
+		<string>process_filledlabel</string>
+		<string>process_label</string>
+		<string>verbatimtex</string>
+		<string>precontrol</string>
+		<string>postcontrol</string>
+		<string>whatever</string>
+		<string>control</string>
+		<string>and</string>
+		<string>fill</string>
+		<string>unfill</string>
+		<string>withpattern</string>
+		<string>unitvector</string>
+		<string>subpath</string>
+		<string>drawdot</string>
+		<string>save</string>
+		<string>cutafter</string>
+		<string>xscale</string>
+		<string>yscale</string>
+		<string>drawoptions</string>
+		<string>thTEX</string>
+		<string>decimal</string>
+		<string>hsize</string>
+		<string>the</string>
+		<string>known</string>
+		<string>p_label</string>
+		<string>push_label_fill_color</string>
+		<string>pop_label_fill_color</string>
+		<string>whereto</string>
+		<string>labeloffset</string>
+		<string>bboxmargin</string>
+		<string>write_circ_bbox</string>
+		<string>superellipse</string>
+		<string>cutbefore</string>
+
+
+		
+
+		
+		
+
+	</array>
+	
+	<key>BBLMPredefinedNameList</key>
+	<array>
+
+		<!--options-->
+		<string>label</string>
+		<string>water-flow</string>
+		<string>air-draught</string>
+		<string>breakdown-choke</string>
+		<string>continuation</string>
+		<string>entrance</string>
+		<string>arrow</string>
+		<string>contour</string>
+		<string>smooth</string>
+		<string>rock</string>
+		<string>border</string>
+		<string>wall</string>
+		<string>station</string>
+		<string>endscrap</string>
 		<string>pebbles</string>
 		<string>altitude</string>
 		<string>tree</string>
@@ -317,12 +489,10 @@
 		<string>rope</string>
 		<string>u:</string>
 		<string>edge</string>
-		<string>outline</string>
 		<string>gypsum</string>
 		<string>gypsum-flower</string>
 		<string>dig</string>
 		<string>water</string>
-		<string>id</string>
 		<string>arrow</string>
 		<string>clay</string>
 		<string>sand</string>
@@ -341,7 +511,14 @@
 		<string>doline</string>
 		<string>arch</string>
 
-		<string>point</string>
+		<string>underlying</string>
+		<string>overlying</string>
+		<string>unsurveyed</string>
+		<string>presumed</string>
+		<string>conjectural</string>
+		<string>intermittent</string>
+		<string>sump</string>
+
 		<string>remark</string>
 		<string>height</string>
 		<string>passage-height</string>
@@ -397,21 +574,32 @@
 		<string>extra</string>
 		<string>rock-edge</string>
 		<string>slope</string>
-				
-		<string>underlying</string>
-		<string>overlying</string>
-		<string>unsurveyed</string>
-		<string>presumed</string>
-		<string>conjectural</string>
-		<string>intermittent</string>
-		<string>cave</string>
-		<string>sump</string>
-		
-	</array>
-	
-	<key>BBLMPredefinedNameList</key>
-	<array>
-		<!--options-->
+		<string>water-drip</string>
+		<string>ice-stalagmite</string>
+		<string>seed-germination</string>
+		<string>curtains</string>
+		<string>disc-pillar</string>
+		<string>disc-stalactite</string>
+		<string>disc-stalagmite</string>
+		<string>disc-pillars</string>
+		<string>disc-stalactites</string>
+		<string>disc-stalagmites</string>
+		<string>pillar-with-curtains</string>
+		<string>pillars-with-curtains</string>
+		<string>stalagmite</string>
+		<string>stalagmites</string>
+		<string>stalactites</string>
+		<string>stalactite-stalagmite</string>
+		<string>stalactites-stalagmites</string>
+		<string>mudcrack</string>
+		<string>volcano</string>
+		<string>mud</string>
+		<string>clay-choke</string>
+		<string>wall-altitude</string>
+
+
+
+		<string>empty</string>
 		<string>-in</string>
 		<string>-out</string>
 		<string>-proj</string>
@@ -497,6 +685,7 @@
 		<string>all</string>
 		<string>fr</string>
 		<string>en</string>
+		<string>es</string>
 		
 		<string>meters</string>
 		<string>meter</string>
@@ -597,8 +786,57 @@
 		<string>picture</string>
 		<string>pencircle</string>
 		<string>scaled</string>
+		<string>xscaled</string>
+		<string>xscaled</string>
+		<string>inscaled</string>
+		<string>Scale</string>
 		<string>aligned</string>
 		<string>rotated</string>
+		<string>dashed</string>
+		<string>evenly</string>
+		<string>punked</string>
+		<string>randomized</string>
+		<string>cycle</string>
+		<string>intersectiontimes</string>
+		<string>uniformdeviate</string>
+		<string>boolean</string>
+		<string>squared</string>
+		<string>rounded</string>
+		<string>defaultscale</string>
+		<string>transformed</string>
+		<string>labeloffset</string>
+		<string>mode</string>
+		<string>urt</string>
+		<string>smoothed</string>
+		<string>mm</string>
+		<string>background</string>
+		<string>..</string>
+		<string>exp</string>
+		<string>pos</string>
+		<string>theta</string>
+		<string>sc</string>
+		<string>al</string>
+		<string>rot</string>
+		<string>ellipse</string>
+		<string>optical_zoom</string>
+		<string>bot</string>
+		<string>rt</string>
+		<string>ltf</string>
+		<string>top</string>
+		<string>ATTR__text</string>
+		<string>ATTR_shotflag_splay</string>
+		<string>ATTR_shotflag_duplicate</string>
+		<string>ATTR_shotflag_approx</string>
+		<string>Path</string>
+		<string>waeningcheck</string>
+		
+		<string>black</string>
+		<string>blue</string>
+		<string>red</string>
+		<string>green</string>
+		<string>white</string>
+
+		
 		<string>fullcircle</string>
 		<string>dir</string>
 		<string>withpen</string>
@@ -607,6 +845,13 @@
 		<string>shifted</string>
 		<string>arctime</string>
 		<string>of</string>
+
+		<string>lat-long</string>
+		<string>long-lat</string>
+		<string>utm32</string>
+		<string>utm31</string>
+		<string>utm18</string>
+		<string>utm19</string>
 		
 		
 	</array>
